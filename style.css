@@ -5,7 +5,7 @@
 }
 
 body{
-    background-color: #3b0394;
+    background-color: #2c2c2d;
 }
 
 header{
@@ -33,7 +33,7 @@ header > h1{
 }
 
 .badge{
-    background: #3a383e;
+    background: #7f46f0;
     color: white;
     font-size: 14px;
     padding: 2px 10px;
